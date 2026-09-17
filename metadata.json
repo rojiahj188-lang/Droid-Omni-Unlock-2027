@@ -1,0 +1,6 @@
+{
+  "name": "OmniUnlock Pro - Asisten Buka Kunci & Bypass HP Luar Negeri",
+  "description": "Platform diagnostik dan pembuka kunci otomatis perangkat iOS & Android luar negeri: Carrier Unlock, Registrasi IMEI Bea Cukai, Recovery Kunci Layar, dan DFU/FRP Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
